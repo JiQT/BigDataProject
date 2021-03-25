@@ -1,1 +1,2 @@
-*.html linguist-language=scala
+*.html linguist-language=Java
+*.html linguist-language=Scala
